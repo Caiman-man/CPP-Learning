@@ -1,0 +1,5 @@
+Alex, Petrov, 19, Lenina st. 12, 23, 3.5
+Ivan, Demidoff, 21, Mayakovskogo st. 14, 24, 3.7
+Vasya, Demidoff, 25, Ostrovskogo st. 15, 25, 4.7
+Lena, Petrova, 27, Moskovskaya st. 16, 27, 4.8
+Anna, Karenina, 24, Donetskay st. 17, 26, 3.1

@@ -1,0 +1,15 @@
+1 -> also
+1 -> fish
+1 -> food
+1 -> im
+1 -> kitty
+1 -> rather
+1 -> really
+1 -> sandwiches
+2 -> hello
+2 -> i
+2 -> man
+2 -> some
+3 -> eat
+3 -> to
+3 -> want

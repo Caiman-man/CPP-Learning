@@ -1,0 +1,18 @@
+ID 1
+Alexander Ivanov
+31.12.90
+Ostrovskogo 35 streat
++38071-307-30-52
+Student of group SBD021
+ID 2
+Viktor Barinov
+01.01.1960
+Moscow
++7-777-777-77-77
+Cheef of restourant "Claude Monet"
+ID 3
+Bilbo Baggins
+22.09.2890
+Middle Earth, Sheer
+None
+Hobbit, friend of Gendalf

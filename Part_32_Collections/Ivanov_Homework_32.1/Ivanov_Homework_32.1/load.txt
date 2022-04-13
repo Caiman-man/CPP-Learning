@@ -1,0 +1,12 @@
+English verbs for IT:
+to back up
+to boot
+to compile
+to compress
+to connect
+to debug
+to decrypt
+to deploy
+to display
+to eject
+to enable
